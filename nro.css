@@ -1,0 +1,227 @@
+body{
+    background-color: #B3AFAF;
+    z-index: -1;
+}
+.body-body{
+    z-index: 0;
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 29vw;
+    height: 1750px;
+    width: 630px;
+    background-color: #FF5601;
+    border-radius: 20px;
+            
+}
+#logo{
+    z-index: 1;
+    position: absolute;
+   margin-top: -1655px ;
+}
+#bangchon {
+    text-align: center;
+    margin-top: -780px;
+    width: 630px;
+    height: 24px;
+    border-spacing: 6px;
+    
+}
+#item{
+    width: 630px;
+    position: absolute;
+    margin-top: -1224px;
+}
+tr{
+    height: 20px;
+}
+.i1 {
+    background-color: #924C31;
+    color: white;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ii{
+    background-color: #FFAF4C;
+    color: #561D00;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#body1{
+    margin-top: -875px;
+    z-index: 1;
+    position: absolute;
+    background-color: #FFAF4C;
+    height: 66px;
+    width: 630px;
+    display: flex;
+}
+#body2{
+    margin-top: -312px;
+    z-index: 1;
+    position: absolute;
+    background-color: #FFAF4C;
+    height: 491px;
+    width: 630px;
+    display: flex;
+}
+.icont{
+    width: 77px;
+    height: 34px;
+    
+}
+li{
+    align-items: center;
+}
+#l6{
+  margin-left: 8px;
+  margin-top: 3px;
+}
+#l5{
+    margin-left: 8px;
+    margin-top: 3px;
+  }
+  #l4{
+    margin-left: 8px;
+    margin-top: 3px;
+  }
+  #l3{
+    margin-left: 8px;
+    margin-top: 3px;
+  }
+  #l2{
+    margin-left: 8px;
+    margin-top: 3px;
+  }
+  #l1{
+    margin-left: 65px;
+    
+    margin-top: 3px;
+  }
+#gioithieu{
+    z-index: 1;
+    width: 610px;
+    height: 20px;
+    border-bottom: 1px solid #DB9C4E;
+    margin-left: 10px;
+    position: absolute;
+    margin-top: 10px;
+    
+}
+#textcontent{
+    position: absolute;
+    font-size: 17px;
+    margin-top: -3px;
+
+    color: #E73D00;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#noidung{
+    z-index: 1;
+    width: 620px;
+    height: 457px;
+    
+    margin-top: 33px;
+    margin-left: 5px;
+}
+#noidung1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+#pll{
+    display: flex;
+   margin-left: -5px;
+   height: 265px;
+   width: 630px;
+   flex-direction: column;
+   
+   
+}
+#gifp{
+    margin-top: -10px;
+   margin-left: 127px;
+    height: 90px;
+    width: 400px;
+}
+.pl{
+    margin-top: -5px;
+    color: #FF001B;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#l3{
+    color: #D76705;
+}
+#body3{
+    z-index: 1;
+    position: absolute;
+    height: 473px;
+    width: 630px;
+    background-color: #FFAF4C;
+    margin-top: 659px;
+}
+#huongdantanthu{
+    position: absolute;
+    width: 620px;
+    height: 30px;
+    border-bottom: 1px solid #DB9C4E ;
+    margin-left: 3px;
+    margin-top: -2px;
+}
+h4{
+    color: #E73D00;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 2px;
+    margin-top: 6px;
+}
+#content{
+    width: 620px;
+    height: 440px;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+    margin-top: 35px;
+    margin-left: 5px;
+}
+a{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #AD4105;
+    text-decoration: none;
+}
+#body4{
+    z-index: 1;
+    position: absolute;
+    height: 220px;
+    width: 630px;
+    background-color: #FFAF4C;
+    margin-bottom: -1358px;
+}
+#phienban{
+    color: #E73D00;
+    padding-top: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#taiphienban{
+    height: 30px;
+    width: 620px;
+    border-bottom: 1px solid #DB9C4E;
+    margin-left: 5px;
+    margin-top: -8px;
+}
+#contentgioithieu{
+    margin-top: 15px;
+    margin-left: 5px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 185px;
+    width: 620px;
+}
+h5{position: absolute;
+    text-align: center;
+    margin-top: 1615px;
+    font-size: 10px;
+    z-index: 1;
+    font-family: Arial, Helvetica, sans-serif;
+}
